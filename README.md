@@ -1,4 +1,4 @@
-# 🏆 - Minecket
+# 🏆 - SeedMC
 
 > Minecket is a website template created by a group of friends during the High Performance Codes course in college as a project. The goal was to create a responsive website for Minecraft servers with login without backend, without the use of frameworks, with a focus on speed and code cleanliness.
 
@@ -12,7 +12,7 @@
 
 > Minecket has undergone several performance tests in order to ensure that it is fast and efficient. Throughout the development process, adjustments and improvements were made to make the site cleaner and better adapted to the users' needs.
 
-> View the preview now: https://minecket.vercel.app/
+> View the preview now: https://seedmc.fun/
 ---
 
 # ⭐ - Components
@@ -46,7 +46,7 @@
 
 > To use this template, you can download it from the releases, since they are bug approved and fixed versions! After downloading, extract the zip file to a folder and modify the whole body [HTML] for what you need. If you want more advanced features and don't have the knowledge, I recommend hiring a developer to do it for you.
 
-> **https://github.com/Henry8K/Minecket/releases/**
+> **https://github.com/muzammilmonis/seedmc/releases/**
 
 ---
 
@@ -69,4 +69,4 @@ console.log(userCokkie);
 
 > The project has a preview of a login and registration system. This system was all done with JS, as mentioned before, only as a preview. It is necessary to adapt or remove it to use in your project because it was added since it was mandatory in the college project. The Checkout system **WAS NOT** added for obvious reasons.
 
-> Done with ♥️ by Henry8K and team.
+> Done with ♥️ by MuzammilOPYT and team.
